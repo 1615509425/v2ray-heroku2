@@ -2,7 +2,7 @@
 
 首先查看别人的 [youtube 教程](https://www.youtube.com/watch?v=xHZyDsFYdvA)，了解怎么配置 v2ray-heroku。如果你还想自动化你的 heroku，请查看下面的教程。
 
-本项目是包含，
+本项目是包含s，
 
 - 一键部署 V2ray 到 heroku。
 - 利用 Github action 实现 重新部署/停止/启动。
